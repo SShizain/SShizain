@@ -5,7 +5,7 @@
 <h2 align="left">Hello World! I'm Shizain, a Computer Science major from India👋:</h2>
 
 
-<p align="left">🛠️ Building a CLI text editor in Rust and developing Android apps as a hands-on learner<br>🎓 Fresher in Computer Science and Engineering at COER University, Roorkee<br>👨🏼‍💻 Leading the Competitive Coding Club, organizing events, and mentoring peers<br>📚 Rapidly mastering web technologies like Next.js, React, and diving into Machine Learning</p>
+<p align="left">🛠️ Building a CLI text editor in Rust and developing Android apps as a hands-on learner<br>🎓 Fresher in Computer Science and Engineering at COER University, Roorkee<br>👨🏼‍💻 Leading the Competitive Coding Club, organizing events, and mentoring peers<br>📚 Rapidly mastering web & app technologies like Next.js, React, Kotlin, Jetpack Compose and diving into Machine Learning</p>
 
 
 <h2 align="left">💻 Tech Stack:</h2>
